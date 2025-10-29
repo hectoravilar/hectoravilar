@@ -1,4 +1,4 @@
-## E aí, beleza? Sou o Hector Avila! 👋
+## Hector Avila da Rosa
 
 <p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hxdWJ1YWlyY2F6cWY4aW5xMWRqN214b2w0ZGRzN2J1eDF0MnZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3Pfv687qPC/giphy.gif" width="100" />
@@ -6,9 +6,9 @@
 
 <br>
 
-- [cite_start]👨‍💻 Estudante de **Sistemas de Informação** na Estácio (Floripa).
-- [cite_start]🚀 Focado em Desenvolvimento Back-end, **Cloud Computing (AWS)** **Database*e **Inteligência Artificial**.
-- [cite_start]🧠 Apaixonado por tecnologia e sempre buscando aprender mais sobre **DevOps**, Cloud e Bancos de Dados **SQL/NoSQL**.
+- 👨‍💻 Estudante de **Sistemas de Informação** na Estácio (Floripa).
+- 🚀 Focado em Desenvolvimento Back-end, **Cloud Computing (AWS)** **Database*e **Inteligência Artificial**.
+- 🧠 Apaixonado por tecnologia e sempre buscando aprender mais sobre **DevOps**, Cloud e Bancos de Dados **SQL/NoSQL**.
 
 ---
 
