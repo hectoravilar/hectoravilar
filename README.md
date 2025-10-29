@@ -1,4 +1,3 @@
-<div align="center">
   
 # 👨‍💻 Hector Avila da Rosa 
 ### Cursando Bacharelado em Sistemas de informação (4º/8º semestre) na Universidade Estácio de Sá , Apaixonado por corrida, academia, futebol. Dev Backend, focado em Cloud Computing e Database
