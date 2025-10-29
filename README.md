@@ -1,12 +1,7 @@
 
   
 # Hector Avila da Rosa 
-### Estudante de Sistemas de Informação | Futuro DevOps & Cloud Engineer
-
-<p>
-Apaixonado por criar soluções robustas e escaláveis na nuvem. Focado em **AWS, DevOps, Back-end** e sempre buscando a próxima oportunidade de aprender e automatizar processos. <br>
-Atualmente **buscando uma oportunidade de estágio** para aplicar meus conhecimentos e crescer profissionalmente.
-</p>
+### Cursando Bacharelado em Sistemas de informação (4º/8º semestre) na Universidade Estácio de Sá , Apaixonado por corrida, academia, futebol. Dev Backend, focado em Cloud Computing e Database
 
 </div>
 
@@ -27,21 +22,14 @@ Atualmente **buscando uma oportunidade de estágio** para aplicar meus conhecime
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 </div>
-
 ---
+### 📂 Projetos 
 
-
-### 📂 Meus Projetos Principais
-
-- 💬 **Live Chat com Spring Boot & AWS**: Chat em tempo real usando Websockets e STOMP, com deploy na AWS via Elastic Beanstalk. `[Ver Repositório](https://github.com/hectoravilar/livechat.git)`
-- 🤖 **RPA para Automação de Cadastro**: Script em Python que automatiza o preenchimento de formulários e cadastro de produtos. `[Ver Repositório](https://github.com/hectoravilar/automacao-tarefas-py.git)`
-- 📊 **Análise de Score de Cliente**: Projeto em Python para análise e classificação de score de crédito de clientes. `[Ver Repositório](https://github.com/hectoravilar/score-ia-py.git)`
-- 🎬 **Back-end de Serviço de Streaming (Em desenvolvimento)**: API RESTful em Java para um serviço de streaming. `[Ver Repositório](https://github.com/hectoravilar/streamingproject.git)`
-
+- 💬 **Live Chat com Spring Boot & AWS**: Chat em tempo real usando Websockets e STOMP, com deploy na AWS via Elastic Beanstalk. `(https://github.com/hectoravilar/livechat.git)`
+- 🤖 **RPA para Automação de Cadastro**: Script em Python que automatiza o preenchimento de formulários e cadastro de produtos. `(https://github.com/hectoravilar/automacao-tarefas-py.git)`
+- 📊 **Análise de Score de Cliente**: Projeto em Python para análise e classificação de score de crédito de clientes. `(https://github.com/hectoravilar/score-ia-py.git)`
+- 🎬 **Back-end de Serviço de Streaming (Em desenvolvimento)**: API RESTful em Java para um serviço de streaming. `(https://github.com/hectoravilar/streamingproject.git)`
 ---
-
-### 📫 Como me achar
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hector-avila-7bb0192b9" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
