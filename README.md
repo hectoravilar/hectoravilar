@@ -6,10 +6,9 @@
 
 <br>
 
-- [cite_start]👨‍💻 Estudante de **Sistemas de Informação** na Estácio (Floripa)[cite: 4, 5].
-- [cite_start]🚀 Focado em Desenvolvimento Back-end, **Cloud Computing (AWS)** **Database*e **Inteligência Artificial**[cite: 2].
-- [cite_start]🧠 Apaixonado por tecnologia e sempre buscando aprender mais sobre **DevOps**, Cloud e Bancos de Dados **SQL/NoSQL**[cite: 3].
-- [cite_start]🔍 **Buscando minha primeira oportunidade de estágio na área!** [cite: 2]
+- [cite_start]👨‍💻 Estudante de **Sistemas de Informação** na Estácio (Floripa).
+- [cite_start]🚀 Focado em Desenvolvimento Back-end, **Cloud Computing (AWS)** **Database*e **Inteligência Artificial**.
+- [cite_start]🧠 Apaixonado por tecnologia e sempre buscando aprender mais sobre **DevOps**, Cloud e Bancos de Dados **SQL/NoSQL**.
 
 ---
 
@@ -33,17 +32,6 @@
 
 ---
 
-### 📊 Minhas Stats no GitHub
-
-<p align="center">
-  <a href="https://github.com/SEU-USUARIO-GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
-
----
 
 ### 📂 Meus Projetos Principais
 
