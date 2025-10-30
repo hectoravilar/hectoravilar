@@ -24,10 +24,20 @@
 ---
  📂 Projetos 
 
-- 💬 **Live Chat com Spring Boot & AWS**: Chat em tempo real usando Websockets e STOMP, com deploy na AWS via Elastic Beanstalk. **[Ver Repositório](https://github.com/hectoravilar/livechat.git)**
-- 🤖 **RPA para Automação de Cadastro**: Script em Python que automatiza o preenchimento de formulários e cadastro de produtos. **[Ver Repositório](https://github.com/hectoravilar/automacao-tarefas-py.git)**
-- 📊 **Análise de Score de Cliente**: Projeto em Python para análise e classificação de score de crédito de clientes. **[Ver Repositório](https://github.com/hectoravilar/score-ia-py.git)**
-- 🎬 **Back-end de Serviço de Streaming (Em desenvolvimento)**: API RESTful em Java para um serviço de streaming. **[Ver Repositório](https://github.com/hectoravilar/streamingproject.git)**
+- 💬 **RPA para Automação de Cadastro de Produtos com Python e Docker:  **[Ver Repositório](https://github.com/hectoravilar/automacao-tarefas-py))**
+Desenvolvi uma solução de RPA (Robotic Process Automation) com Python e Selenium WebDriver para automatizar o
+cadastro em massa de produtos em sistemas web, lendo dados de arquivos CSV com Pandas.Projetei a automação para
+rodar em modo headless (sem interface gráfica) e a containerizei com Docker, permitindo a execução otimizada em
+servidores ou pipelines de CI/CD.
+Implementei um sistema robusto de tratamento de erros (com logs e screenshots automáticos) e gerenciamento seguro de
+credenciais via variáveis de ambiente (.env). 
+- 🤖 Aplicação de Chat em Tempo Real com Java e AWS: .**[Ver Repositório](https://github.com/hectoravilar/livechat.git)**
+Desenvolvi uma aplicação de chat em tempo real utilizando Java 21 e Spring Boot, com frontend em HTML/JS/Bootstrap.
+Configurei WebSockets com o protocolo STOMP para permitir a comunicação bidirecional e instantânea entre os usuários.
+Realizei o deploy completo da aplicação na AWS utilizando o Amazon Elastic Beanstalk, configurando o ambiente de
+produção na plataforma Java Corretto. Implementei medidas de segurança, como "HTML escaping" automático nas
+mensagens, para prevenir ataques de XSS (Cross-Site Scripting).
+
 ---
 <div align="center">
 
