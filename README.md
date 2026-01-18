@@ -1,28 +1,38 @@
-<div align="center">
-
 # 👨‍💻 Hector Ávila
-### Information Systems student focused on Software Engineering and Cloud Computing. AWS Certified Cloud Practitioner, I have solid proficiency in Java (Spring Boot), Python, and SQL databases.
 
-<a href="https://www.credly.com/badges/9b37d153-6c07-4c29-8b41-8e65bc5a137d/linked_in?t=t7y9fh">
-  <img src="./assets/awscp.png" width="95" alt="AWS Certified Cloud Practitioner">
+<p align="left">
+  <code>Sistemas de Informação (4º semestre) | AWS Certified Cloud Practitioner</code>
+</p>
+
+Estudante de Sistemas de Informação (4º semestre) focado em Engenharia de Software e Cloud Computing. Sou AWS Certified Cloud Practitioner, apaixonado por tecnologia, fitness e por transformar ideias em código.
+
+<a href="COLE_AQUI_O_LINK_DO_CREDLY">
+  <img src="./assets/aws-cp-badge.png" width="110" alt="AWS Certified Cloud Practitioner">
 </a>
 
+Reach me out here: [hectoravllr@gmail.com](mailto:hectoravllr@gmail.com)
+
+## Stacks
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws,python,java,docker,git,linux" height="50" alt="Stacks" />
 </div>
 
----
+## Social Media
 
-### 🛠️ Stacks
-
-<div align="center" style="display:inline_block">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/hector-avila-7bb0192b9" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hectoravilar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/hectoravlr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
 </div>
+
+## Languages
+
+🇧🇷 Native Portuguese
+🇺🇸 Advanced English
