@@ -1,10 +1,10 @@
 # 👨‍💻 Hector Ávila
 
 <p align="left">
-  <code>Sistemas de Informação (4º semestre) | AWS Certified Cloud Practitioner</code>
+  <code>Information System | AWS Certified Cloud Practitioner</code>
 </p>
 
-Estudante de Sistemas de Informação (4º semestre) focado em Engenharia de Software e Cloud Computing. Sou AWS Certified Cloud Practitioner, apaixonado por tecnologia, fitness e por transformar ideias em código.
+Information Systems student focusing on Software Engineering and Cloud Computing. AWS Certified Cloud Practitioner, passionate about tech and turning ideas into code.
 
 <a href="COLE_AQUI_O_LINK_DO_CREDLY">
   <img src="./assets/aws-cp-badge.png" width="110" alt="AWS Certified Cloud Practitioner">
