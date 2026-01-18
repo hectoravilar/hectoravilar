@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 </div>
----
+
 Technical Skills:
 
 • Languages: Java (Spring Boot), Python, SQL (Advanced).
