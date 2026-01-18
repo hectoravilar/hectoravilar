@@ -1,7 +1,7 @@
-# 👨‍💻 Hector Ávila
+# 👨‍💻 Hector Ávila da Rosa
 
 <p align="left">
-  <code>Information System | AWS Certified Cloud Practitioner</code>
+  <code>Information System | Software Engineer  </code>
 </p>
 
 Information Systems student focusing on Software Engineering and Cloud Computing. AWS Certified Cloud Practitioner, passionate about tech and turning ideas into code.
