@@ -1,5 +1,5 @@
   
-# 👨‍💻 Hector Avila da Rosa 
+# 👨‍💻 Hector Ávila
 ### Information Systems student focused on Software Engineering and Cloud Computing. AWS Certified Cloud Practitioner, I have solid proficiency in Java (Spring Boot), Python, and SQL databases.
 
 </div>
