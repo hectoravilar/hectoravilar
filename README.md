@@ -22,7 +22,21 @@
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 </div>
 ---
+Technical Skills:
 
+• Languages: Java (Spring Boot), Python, SQL (Advanced).
+
+• Cloud & DevOps: AWS (EC2, S3, Lambda, CloudWatch), Docker, CI/CD, Git/GitHub.
+
+• Backend: RESTful APIs, Microservices, WebSockets.
+
+• Data & AI: SQL/NoSQL Modeling, Pandas, Scikit-learn, MLOps.
+
+• Practices: Clean Code, System Sustainability, Observability, and Security.
+
+Languages:
+• English: Advanced.
+• Portuguese: Native.
 ---
 <div align="center">
 
