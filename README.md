@@ -4,7 +4,7 @@
 ### Information Systems student focused on Software Engineering and Cloud Computing. AWS Certified Cloud Practitioner, I have solid proficiency in Java (Spring Boot), Python, and SQL databases.
 
 <a href="https://www.credly.com/badges/9b37d153-6c07-4c29-8b41-8e65bc5a137d/linked_in?t=t7y9fh">
-  <img src="./assets/awscp.png" width="130" alt="AWS Certified Cloud Practitioner">
+  <img src="./assets/awscp.png" width="100" alt="AWS Certified Cloud Practitioner">
 </a>
 
 </div>
