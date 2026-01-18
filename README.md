@@ -1,6 +1,11 @@
-  
+<div align="center">
+
 # 👨‍💻 Hector Ávila
 ### Information Systems student focused on Software Engineering and Cloud Computing. AWS Certified Cloud Practitioner, I have solid proficiency in Java (Spring Boot), Python, and SQL databases.
+
+<a href="COLE_AQUI_O_LINK_DA_SUA_VERIFICACAO_DO_CREDLY">
+  <img src="https://images.credly.com/size/340x340/images/0063d974-0b7d-4a6a-93eb-ad5b0d97de5a/image.png" width="130" alt="AWS Certified Cloud Practitioner">
+</a>
 
 </div>
 
@@ -20,29 +25,4 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-</div>
-
-Technical Skills:
-
-• Languages: Java (Spring Boot), Python, SQL (Advanced).
-
-• Cloud & DevOps: AWS (EC2, S3, Lambda, CloudWatch), Docker, CI/CD, Git/GitHub.
-
-• Backend: RESTful APIs, Microservices, WebSockets.
-
-• Data & AI: SQL/NoSQL Modeling, Pandas, Scikit-learn, MLOps.
-
-• Practices: Clean Code, System Sustainability, Observability, and Security.
-
-Languages:
-• English: Advanced.
-• Portuguese: Native.
----
-<div align="center">
-
-<a href="https://www.linkedin.com/in/hector-avila-7bb0192b9" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="https://github.com/hectoravilar" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-<a href="https://www.instagram.com/hectoravlr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-<a href="mailto:hectoravllr@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
- 
 </div>
