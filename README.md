@@ -27,13 +27,14 @@ Reach me out here: [hectoravllr@gmail.com](mailto:hectoravllr@gmail.com)
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
 </div>
-## AWS Certifications 
 
+## AWS Certifications 
 <div align="left">
   <a href="[COLE_AQUI_O_LINK_DO_CREDLY](https://www.credly.com/badges/9b37d153-6c07-4c29-8b41-8e65bc5a137d/linked_in?t=t7y9fh)" target="_blank">
     <img src="./assets/awscp.png" width="80" alt="AWS Certified Cloud Practitioner">
   </a>
 </div>
+
 ## Languages
 
 🇧🇷 Native Portuguese
