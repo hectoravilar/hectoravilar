@@ -4,7 +4,9 @@
   <code>Information System Student | Software Engineer  </code>
 </p>
 
-Information Systems student focusing on Software Engineering and Cloud Computing. AWS Certified Cloud Practitioner, passionate about tech and turning ideas into code.
+DevOps & Cloud Enthusiast | Passionate about automation, IaC, and cloud-native culture | AWS Certified Cloud Practitioner
+
+I believe great software isn’t just written — it’s built, automated, and delivered reliably. I own the full delivery cycle: from clean, well-architected code to containerized deployments through CI/CD pipelines.
 
 Reach me out here: [hectoravllr@gmail.com](mailto:hectoravllr@gmail.com)
 
